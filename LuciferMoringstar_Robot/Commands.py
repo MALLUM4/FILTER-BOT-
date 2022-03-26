@@ -84,7 +84,7 @@ async def start(bot, message):
                     f_caption = f"{files.file_name}"
                 buttons = [
                     [
-                        InlineKeyboardButton('🎖 DEPLOY YOURS 🎖', url=f'{TUTORIAL}')
+                        InlineKeyboardButton('🎖 JOIN CHANNEL 🎖', url='https://t.me/MALLUM4')
                     ]
                     ]
                 await bot.send_cached_media(
@@ -115,9 +115,9 @@ async def start(bot, message):
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [[
-                InlineKeyboardButton("Search Here", switch_inline_query_current_chat='')
+                InlineKeyboardButton("JOIN NOW", url='https://t.me/joinchat/YcTutgvLaR5hNDFh')
                 ],[
-                InlineKeyboardButton("Help", callback_data="help"),
+                InlineKeyboardButton("⭕️MOVIES⭕️", url="https://t.me/MALLU_ROCKS_M4"),
                 InlineKeyboardButton("About", callback_data="about")
                 ]]
             )
