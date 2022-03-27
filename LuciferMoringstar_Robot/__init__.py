@@ -11,31 +11,19 @@ from .Channel import (
 )
 
 HELP = """
-Basic Commads
-
-/start :- check am Alive
-
-Bot Owner Only
-/broadcast Replay Any Message or Media
-/stats user Status
-/ban_user  click ban_user more info
-/unban_user click unban_user more info
-/banned_users Banned User Details
-/total How Many Files Added In Database
-/logger  Get Logs
-/delete Delete File From Database
-
+നീ ഏതാ..... ഒന്ന് പോടെയ് അവൻ help ചോയ്ച്ച് വന്നിരിക്കുന്നു...ഇവിടെ help ഉം കൊണ്ട് വന്നിട്ട് ഒരു കാര്യവും ഇല്ല.😜
+@MALLUM4
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
+➥ Name :  VIJAY RO BOT 
     
 ➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
+https://t.me/MARKMF)
 
-➥ Language : Python3
+➥ Language : ⭕️⭕️⭕️
 
-➥ Library : Pyrogram Asyncio 1.13.0
+➥ Library : 💥💥💥💥
 
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
+➥ Tutorial : [Click Me](https://t.me/MALLUM4)
 """
