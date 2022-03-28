@@ -16,13 +16,13 @@ help ചോയ്ച്ച് വന്നിരിക്കുന്നു
 കാര്യവും ഇല്ല.😜 @MALLUM4"""
 
 ABOUT = """
-➥ Name :  VIJAY RO BOT 
+➥ Name :  [VIJAY RO BOT](https://t.me/VIJAY_V4_RO_BOT)
     
-➥ Creator : [Naughty PROFESSOR](https://t.me/MARKMF)
+➥ Creator : [MASTER](https://t.me/MARKMF)
 
-➥ Language : ⭕️⭕️⭕️
+➥ Language : poda
 
-➥ Library : 💥💥💥💥
+➥ Library : ⭕️⭕️⭕️
 
-➥ Tutorial : [Click Me](https://t.me/MALLUM4)
+➥ Tutorial : [JOIN NOW](https://t.me/MALLUM4)
 """
