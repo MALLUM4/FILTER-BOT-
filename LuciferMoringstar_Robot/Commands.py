@@ -115,10 +115,10 @@ async def start(bot, message):
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [[
-                InlineKeyboardButton("JOIN NOW", url='https://t.me/joinchat/YcTutgvLaR5hNDFh')
+                InlineKeyboardButton("♂️JOIN NOW♂️", url='https://t.me/joinchat/YcTutgvLaR5hNDFh')
                 ],[
-                InlineKeyboardButton("⭕️MOVIES⭕️", url="https://t.me/MALLU_ROCKS_M4"),
-                InlineKeyboardButton("About", callback_data="about")
+                InlineKeyboardButton("♂️MOVIES♂️", url="https://t.me/MALLU_ROCKS_M4"),
+                InlineKeyboardButton("♂️GROUP♂️", callback_data="https://t.me/")
                 ]]
             )
         )
@@ -331,7 +331,7 @@ async def bot_info(bot, message):
     buttons = [
         [
             
-            InlineKeyboardButton('⭕️MOVIE GROUP⭕️', url=f'{TUTORIAL}')
+            InlineKeyboardButton('⭕️MOVIE GROUP⭕️', url=f'https://t.me/MALLU_MOVIES_GROUP_M4')
         ]
         ]
     await message.reply(text=f"{ABOUT}", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
